@@ -1,0 +1,188 @@
+Uri: https://amfdigitalstudio-story.com/fonts/brigesta/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\brigesta\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/brittany_signature/BrittanySignature.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\brittany_signature\BrittanySignature.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/e111viva/style.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\e111viva\style.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/heatwood/Heatwood.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\heatwood\Heatwood.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/photograph_signature/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\photograph_signature\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/images/btn_app_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_app_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/btn_play_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_play_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/instagram.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\instagram.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/no-image.jpg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\no-image.jpg
+Content Type: image/jpeg
+
+Uri: https://amfdigitalstudio-story.com/plugins/animate.css@4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\plugins\animate.css@4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/preview/chestnut-art
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\preview\chestnut-art.html
+Content Type: text/html
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/bg.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\bg.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/bl.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\bl.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/bm.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\bm.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/br.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\br.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/left.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\left.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/phinisi.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\phinisi.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/right.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\right.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/tl.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\tl.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/chestnut-art/tr.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\chestnut-art\tr.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/theme-app.js?v=160426
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\theme-app.js
+Content Type: application/javascript
+
+Uri: https://amfdigitalstudio-story.com/themes/themes-scroll.js?v=160426
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\themes-scroll.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3moJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3moJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU3msJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7GsJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGU7GsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGwJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUAGwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2wJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUd2wJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGsJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUgGsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWwJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUOWwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmsJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmsJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmwJow.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY9z_wNahGAdqQ43Rh_ebrnlwyYfEPxPoGUXmwJow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K-DQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nWNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nXNig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXNig.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\worksans\v24\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXNig.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\beacon.min.js\v4513226cdae34746b4dedf0b4dfa099e1781791509496
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.svg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff2
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/style.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\style.css
+Content Type: text/css
+
