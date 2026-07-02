@@ -1093,7 +1093,19 @@
         </div>
         <!-- end invitation -->
         <div class="floating-action d-flex align-items-end flex-column">
-
+            <button id="btnQrModal" onclick="showModal(qrModal)" class="btn btn-float ">
+                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor"
+                    viewbox="0 0 256 256">
+                    <rect x="40" y="40" width="80" height="80" rx="16"></rect>
+                    <rect x="40" y="136" width="80" height="80" rx="16"></rect>
+                    <rect x="136" y="40" width="80" height="80" rx="16"></rect>
+                    <path d="M144,184a8,8,0,0,0,8-8V144a8,8,0,0,0-16,0v32A8,8,0,0,0,144,184Z"></path>
+                    <path
+                        d="M208,152H184v-8a8,8,0,0,0-16,0v56H144a8,8,0,0,0,0,16h32a8,8,0,0,0,8-8V168h24a8,8,0,0,0,0-16Z">
+                    </path>
+                    <path d="M208,184a8,8,0,0,0-8,8v16a8,8,0,0,0,16,0V192A8,8,0,0,0,208,184Z"></path>
+                </svg>
+            </button>
             <button id="btnMusic" onclick="playMusic()" class="btn btn-float ">
                 <svg class="play" xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor"
                     viewbox="0 0 256 256">
@@ -1136,6 +1148,34 @@
         </div>
         <!-- end lightbox -->
 
+        <!-- startQRModal -->
+        <div class="modal fade" id="qrModal" tabindex="-1" role="dialog" aria-labelledby="qrModal" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content" style="height:100%">
+                    <div
+                        style="width: 100%;aspect-ratio: 16/9; background-size:cover; background-position: center; background-image: url(images/no-image.jpg);">
+                    </div>
+                    <div class="text-center py-4 px-4">
+                        <div style="text-align: center">
+                            <strong>11 Jul 2026</strong><br>
+                            <p class="mb-0">08:00</p>
+                        </div>
+                        <hr
+                            style="margin-top: 1rem; margin-bottom: 1rem; border: 0; border-top: 2px dashed rgba(0,0,0,.1);">
+                        <div style="margin-bottom: 10px">
+                            <div style="color: #b2b2b2;">Nama</div>
+                            <div id="guestNameQrSlot">Nama Tamu</div>
+                        </div>
+                    </div>
+                    <button onclick="closeModal(qrModal)" type="button" class="btn btn-close"><svg
+                            xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" fill="none"
+                            viewbox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M6 18 18 6M6 6l12 12"></path>
+                        </svg></button>
+                </div>
+            </div>
+        </div>
         <!-- endQRModal -->
         <!-- startRSVPModal -->
         <div class="modal fade" id="rsvpModal" tabindex="-1" role="dialog" aria-labelledby="rsvpModal">
